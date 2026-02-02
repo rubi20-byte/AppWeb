@@ -1,0 +1,33 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+<style>
+.panel-biblio {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+.btn-panel {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding: 12px 22px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    transition: 0.3s ease;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-panel:hover {
+    background-color: #333333;
+    transform: scale(1.05);
+}
+
+
+</style>
+</style>
+<!-- end Simple Custom CSS and JS -->
